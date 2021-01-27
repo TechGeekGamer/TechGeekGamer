@@ -27,3 +27,6 @@ SlashNotes is a basic bot that you can use to store notes using Discord's Slash 
 - Due to Discord's limits on Slash Commands, you can only have up to 50 Server Slash notes.
 
 - Due to Discord's limits, Slash Commands won't appear in servers with more than 50 bots.
+
+### Invite
+You can invite SlashNotes using [this link](https://discord.com/api/oauth2/authorize?client_id=799921906047647744&permissions=3072&scope=bot%20applications.commands) or https://discord.com/api/oauth2/authorize?client_id=799921906047647744&permissions=3072&scope=bot%20applications.commands
