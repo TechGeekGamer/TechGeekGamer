@@ -30,3 +30,6 @@ SlashNotes is a basic bot that you can use to store notes using Discord's Slash 
 
 ### Invite
 You can invite SlashNotes using [this link](https://discord.com/api/oauth2/authorize?client_id=799921906047647744&permissions=3072&scope=bot%20applications.commands) or https://discord.com/api/oauth2/authorize?client_id=799921906047647744&permissions=3072&scope=bot%20applications.commands
+
+### Source
+Want to run your own instance of it? The [source code](https://github.com/TechGeekGamer/SlashNotes) is public. 
